@@ -1,5 +1,5 @@
 # cpp-beginner projects
-My first few projects after starting c++
+My first few projects after starting C++
 ## Projects
 -Addition Calculator
 -Age calculator
