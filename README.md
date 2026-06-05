@@ -10,6 +10,7 @@ My first few projects after starting C++
 -Even Odd
 -Responsive BMI
 -Voting eligibliity
+-Menu Calculator
 
 Tools Used:
 -C++
