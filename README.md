@@ -15,6 +15,7 @@ My first few projects after starting C++
 -Factorial
 -Multiplication Table
 -ATM Simulator
+-Number guess game
 
 Tools Used:
 -C++
