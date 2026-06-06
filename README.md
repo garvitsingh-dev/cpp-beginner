@@ -14,6 +14,7 @@ My first few projects after starting C++
 -Sum of n natural numbers
 -Factorial
 -Multiplication Table
+-ATM Simulator
 
 Tools Used:
 -C++
