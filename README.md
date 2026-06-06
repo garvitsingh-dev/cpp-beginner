@@ -11,6 +11,9 @@ My first few projects after starting C++
 -Responsive BMI
 -Voting eligibliity
 -Menu Calculator
+-Sum of n natural numbers
+-Factorial
+-Multiplication Table
 
 Tools Used:
 -C++
