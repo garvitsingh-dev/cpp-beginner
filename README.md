@@ -16,6 +16,7 @@ My first few projects after starting C++
 -Multiplication Table
 -ATM Simulator
 -Number guess game
+-Marks analyzer
 
 Tools Used:
 -C++
