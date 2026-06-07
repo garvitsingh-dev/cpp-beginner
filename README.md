@@ -1,4 +1,4 @@
-# cpp-beginner projects
+# C++ - Beginner Projects
 My first few projects after starting C++
 ## Projects
 -Addition Calculator
@@ -17,6 +17,7 @@ My first few projects after starting C++
 -ATM Simulator
 -Number guess game
 -Marks analyzer
+-Repeated linear search
 
 Tools Used:
 -C++
